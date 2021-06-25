@@ -1,0 +1,21 @@
+.parent{
+    width: 300px;
+    height: 260px;
+    background-color: hotpink;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
+input{
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+#b1{
+    margin-left: 30%;
+    width: 40%;
+    margin-top: 40px;
+    background-color: lawngreen;
+    border: none;
+}
